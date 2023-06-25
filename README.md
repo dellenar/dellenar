@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋 I'm Dellenar</h1>
 <h3 align="center">I'm Junior Front-End Developer who aims to become a Fullstack Developer.</h3>
 
-- 🌱 I’m currently learning **React, Tailwind CSS**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **NFTs, Blockchain, Front-End**
 
